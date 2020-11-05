@@ -7,8 +7,8 @@ const notesService = {
     },
     addNote(knex, note) {
         return knex
-            .from("notes")
-            .insert(note)
+        .insert(note)
+            .into("notes")
             .returning("*")
             .then((note) => note[0]);
     },

@@ -7,9 +7,9 @@ const bodyParser = express.json();
 
 const serializeNote = (note) => ({
     id: note.id,
-    title: xss(note.title),
+    name: xss(note.name),
     content: xss(note.content),
-    date_created: xss(note.date_created),
+    modified: xss(note.modified),
     folder_id: note.folder_id,
 });
 
@@ -19,7 +19,10 @@ notesRouter
         const knex = req.app.get("db");
         notesService
             .getAllNotes(knex)
-            .then((notes) => res.json(notes.map(serializeNote)))
+            .then((notes) => {
+                console.log(notes)
+                res.json(notes.map(serializeNote))
+            })
             .catch(next);
     })
     .post(bodyParser, (req, res, next) => {
@@ -31,8 +34,9 @@ notesRouter
                     .json({ error: { message: `${field} is missing` } });
             }
         }
+        console.log(req.body)
         const newNote = {
-            title: xss(req.body.title),
+            name: xss(req.body.title),
             content: xss(req.body.content),
             folder_id: req.body.folder_id,
         };

@@ -1,2 +1,87 @@
 {"message":"Note with id 3 not found","level":"error"}
 {"message":"folder with id 3 not found","level":"error"}
+{"message":"folder with id 4 created","level":"info"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"folder with id 5 created","level":"info"}
+{"message":"folder_id is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"note with id 15 created","level":"info"}
+{"message":"note with id 16 created","level":"info"}
+{"message":"folder with id 4 created","level":"info"}
+{"message":"note with id 16 deleted","level":"info"}
+{"message":"Note with id 16 not found","level":"error"}
+{"message":"folder with id 5 created","level":"info"}
+{"message":"note with id 1 deleted","level":"info"}
+{"message":"note with id 15 deleted","level":"info"}
+{"message":"Note with id 1 not found","level":"error"}
+{"message":"note with id 2 deleted","level":"info"}
+{"message":"note with id 17 created","level":"info"}
+{"message":"note with id 17 deleted","level":"info"}
+{"message":"note with id 3 deleted","level":"info"}
+{"message":"note with id 4 deleted","level":"info"}
+{"message":"note with id 18 created","level":"info"}
+{"message":"note with id 18 deleted","level":"info"}
+{"message":"note with id 19 created","level":"info"}
+{"message":"folder_id is missing for notes post","level":"error"}
+{"message":"note with id 20 created","level":"info"}
+{"message":"folder_id is missing for notes post","level":"error"}
+{"message":"note with id 20 deleted","level":"info"}
+{"message":"Note with id 20 not found","level":"error"}
+{"message":"note with id 19 deleted","level":"info"}
+{"message":"note with id 14 deleted","level":"info"}
+{"message":"note with id 13 deleted","level":"info"}
+{"message":"folder with id 6 created","level":"info"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"note with id 12 deleted","level":"info"}
+{"message":"Note with id 12 not found","level":"error"}
+{"message":"note with id 11 deleted","level":"info"}
+{"message":"note with id 10 deleted","level":"info"}
+{"message":"note with id 9 deleted","level":"info"}
+{"message":"note with id 8 deleted","level":"info"}
+{"message":"note with id 7 deleted","level":"info"}
+{"message":"note with id 6 deleted","level":"info"}
+{"message":"note with id 5 deleted","level":"info"}
+{"message":"Note with id 5 not found","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"note with id 1 deleted","level":"info"}
+{"message":"Note with id 1 not found","level":"error"}
+{"message":"note with id 2 deleted","level":"info"}
+{"message":"Note with id 2 not found","level":"error"}
+{"message":"note with id 3 deleted","level":"info"}
+{"message":"note with id 4 deleted","level":"info"}
+{"message":"note with id 5 deleted","level":"info"}
+{"message":"note with id 6 deleted","level":"info"}
+{"message":"note with id 7 deleted","level":"info"}
+{"message":"note with id 8 deleted","level":"info"}
+{"message":"note with id 9 deleted","level":"info"}
+{"message":"note with id 10 deleted","level":"info"}
+{"message":"note with id 11 deleted","level":"info"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"note with id 12 deleted","level":"info"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"title is missing for notes post","level":"error"}
+{"message":"folder_id is missing for notes post","level":"error"}
+{"message":"note with id 15 created","level":"info"}
+{"message":"note with id 15 deleted","level":"info"}
+{"message":"note with id 16 created","level":"info"}
+{"message":"folder with id 4 created","level":"info"}
+{"message":"note with id 17 created","level":"info"}
+{"message":"note with id 18 created","level":"info"}
+{"message":"folder with id 5 created","level":"info"}
+{"message":"folder with id 6 created","level":"info"}
+{"message":"note with id 19 created","level":"info"}
+{"message":"note with id 19 deleted","level":"info"}
+{"message":"note with id 13 deleted","level":"info"}
+{"message":"note with id 18 deleted","level":"info"}
+{"message":"folder_id is missing for notes post","level":"error"}
+{"message":"note with id 17 deleted","level":"info"}
+{"message":"note with id 20 created","level":"info"}
+{"message":"note with id 20 deleted","level":"info"}
+{"message":"note with id 16 deleted","level":"info"}
+{"message":"note with id 21 created","level":"info"}

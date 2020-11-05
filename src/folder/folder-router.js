@@ -44,7 +44,7 @@ foldersRouter
 foldersRouter
     .route("/folders/:folder_id")
     .all((req, res, next) => {
-        const { folder_id } = req.params;
+        const { folderd } = req.params;
         foldersService
             .getFolderById(req.app.get("db"), folder_id)
             .then((folder) => {
