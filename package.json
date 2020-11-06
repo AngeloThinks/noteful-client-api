@@ -1,7 +1,9 @@
 {
   "name": "noteful-client-api",
   "version": "1.0.0",
-  "engines": {"node":"12.x"},
+  "engines": {
+    "node": "12.x"
+  },
   "description": "Basic boilerplate for initializing express projects",
   "main": "src/server.js",
   "scripts": {
