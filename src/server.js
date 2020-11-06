@@ -1,3 +1,5 @@
+console.log('hello world')
+
 require("dotenv").config();
 
 const app = require("./app");
